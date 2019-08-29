@@ -26894,6 +26894,14 @@
 	},
 /turf/open/floor/wood,
 /area/crew_quarters/bar)
+"dHV" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/turf/open/space/basic,
+/area/hallway/primary/port{
+	name = "Deck 3 hallway"
+	})
 "dIr" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{
@@ -27320,6 +27328,15 @@
 	},
 /turf/open/floor/plating,
 /area/engine/engineering)
+"fQp" = (
+/obj/effect/turf_decal/tile/bar,
+/obj/effect/turf_decal/tile/bar{
+	dir = 1
+	},
+/obj/structure/chair/stool,
+/obj/effect/landmark/start/assistant,
+/turf/open/space/basic,
+/area/crew_quarters/bar)
 "fQB" = (
 /obj/machinery/chem_master/condimaster{
 	name = "CondiMaster Neo";
@@ -27541,6 +27558,11 @@
 	},
 /turf/open/floor/plating,
 /area/janitor)
+"ilb" = (
+/turf/open/space/basic,
+/area/hallway/primary/port{
+	name = "Deck 3 hallway"
+	})
 "itw" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{
@@ -28648,7 +28670,7 @@
 	dir = 4
 	},
 /obj/effect/landmark/nuclear_waste_spawner/strong,
-/turf/open/floor/plasteel/ship/padded,
+/turf/open/space/basic,
 /area/hallway/primary/port{
 	name = "Deck 3 hallway"
 	})
@@ -59486,7 +59508,7 @@ aap
 aap
 agu
 agI
-agI
+fQp
 agI
 agD
 aYp
@@ -80563,7 +80585,7 @@ amq
 aSE
 aBD
 auO
-auO
+ilb
 xBP
 obb
 aay
@@ -82361,7 +82383,7 @@ aSE
 iJK
 gPW
 mtZ
-cMo
+dHV
 aay
 mWw
 aay
@@ -83903,7 +83925,7 @@ aSE
 uSa
 gPW
 mtZ
-cMo
+aay
 aay
 aay
 aay
